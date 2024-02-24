@@ -38,6 +38,7 @@
 [leetcode]: https://leetcode.com/Vova_3000/
 [twitter]: https://x.sammi.app/profile/65d8e31943f2f5296dbb4a28
 [youtube]: https://www.youtube.com/channel/UC657UVzld-k3zgQDmN1R0XQ
+[linkedin]: https://www.linkedin.com/in/vladimir-roshupkin-a121632b7/
 <br />
 <br />
 
@@ -45,7 +46,8 @@
 
 [<img align="left" alt="codeSTACKr | YouTube" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LeetCode" width="32px" src="https://www.svgrepo.com/show/306328/leetcode.svg" />][leetcode]<br />
+[<img align="left" alt="codeSTACKr | LeetCode" width="32px" src="https://www.svgrepo.com/show/306328/leetcode.svg" />][leetcode]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br />
 <br />
 
 ### Спасибо, что заглянули 📋
