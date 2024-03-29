@@ -1,15 +1,15 @@
 <h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=&vCenter=&random=false&width=435&lines=Hi%2C%F0%9F%91%8B+I%E2%80%99m+%40Vova2808....+%3A)+;Nice+to+see+you....!;Hello+World+%3A)" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=&vCenter=&random=false&width=435&lines=Hi%2C%F0%9F%91%8B+Roshchupkin Vova....+%3A)+;Nice+to+see+you....!;Hello+World+%3A)" alt="Typing SVG" />
   </a>
 </h1>
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
-    width="30px">, I'm Vova2808</h1>
+    width="30px">, I'm Roshchupkin Vova</h1>
 <h3 align="center">Не Data Scintist И Не Программист</h3>
 
-- 👋 Hi, I’m @Vova2808
+- 👋 Hi, I’m Roshchupkin Vova
 - 👀 Я интересуюсь технологиями и It
 - 🌱 Сейчас я изучаю Data Scinse
 - 💞️ Я хочу сделать Мир лучше
