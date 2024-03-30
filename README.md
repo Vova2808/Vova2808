@@ -3,10 +3,11 @@
   </a>
 </h1>
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px" /></a>
+<a href="#"><img width="110%" height="auto" src="https://github.com/Vova2808/Vova2808/assets/96084748/5f8f8ae8-d1e5-4f34-83ac-7d14ff8f8ac8" /></a>
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Roshchupkin Vova</h1>
+
 <img width="40%" alt="Night Coding" src="https://github.com/MisterPrada/misterprada/assets/8146111/91fec7b5-937a-43cc-8a90-4f468f157bc5" align="right"/>
 <h3 align="center">Не Data Scintist И Не Программист</h3>
 
@@ -16,7 +17,7 @@
 - 👀 Я интересуюсь технологиями и It
 - 🌱 Сейчас я изучаю Data Scinse
 - 💞️ Я хочу сделать Мир лучше
-- ⚡ Забавный факт: Я не программист <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+- ⚡ Забавный факт: Люблю кодить по ночам <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 - 📫 Как связаться со мной
 - Email : [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:rosupkinv169@gmail.com) 
 - Telegram: [![Telegram Badge](https://img.shields.io/badge/-Aboba859-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Aboba859)
@@ -57,23 +58,21 @@
 
 ### 📊 Github Stats
 
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="2100" height="2"/>
 <p>
   <a>
     <img alt = "top" align="left" src="https://github-readme-stats.vercel.app/api?username=Vova2808&show_icons=true&theme=radical"/>
     <img alt="top" align="left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Vova2808&layout=compact&theme=radical"/>
   </a>
 </p>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="2100" height="2"/>
 
-### 📈 Activity graph
+
+<br>
+<h3><img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="30"/> Activity graph</h3>
+
 ---
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vova2808&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
