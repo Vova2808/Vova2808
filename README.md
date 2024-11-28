@@ -20,7 +20,7 @@
 - ⚡ Забавный факт: Люблю кодить по ночам <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 - 📫 Как связаться со мной
 - Email : [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:rosupkinv169@gmail.com) 
-- Telegram: [![Telegram Badge](https://img.shields.io/badge/-Aboba641-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Aboba641)
+- Telegram: [![Telegram Badge](https://img.shields.io/badge/-Aboba581-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Aboba581)
 
 
 ---
